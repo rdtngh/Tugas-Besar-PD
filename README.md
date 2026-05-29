@@ -95,7 +95,7 @@ Tugas-Besar-PD/
 
 ### 1. Clone Repository
 ```bash
-git clone <link-repository-anda>
+git clone https://github.com/rdtngh/Tugas-Besar-PD.git
 cd Tugas-Besar-PD
 ```
 
@@ -210,7 +210,3 @@ Pemilihan metode imputasi perlu disesuaikan dengan karakteristik data dan tujuan
 6. Muhamad Arif Ardani (123140186)
 
 ---
-
-**Last Updated**: 2026-05-29
-
-Untuk pertanyaan atau saran, silakan hubungi anggota kelompok atau buat issue di repository ini.
