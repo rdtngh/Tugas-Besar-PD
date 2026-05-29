@@ -95,7 +95,7 @@ Tugas-Besar-PD/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/rdtngh/Tugas-Besar-PD.git
+git clone <link-repository-anda>
 cd Tugas-Besar-PD
 ```
 
@@ -201,7 +201,7 @@ Pemilihan metode imputasi perlu disesuaikan dengan karakteristik data dan tujuan
 **Topik**: Perbandingan Metode Imputasi Missing Value pada Dataset Diabetes  
 **Periode**: Semester Genap 2025/2026
 
-### Anggota:
+### Anggota Kelompok:
 1. Najlatika (123140078)
 2. Bening Apni Prameswari (123140089)
 3. Falent Antonius Panjaitan (123140124)
