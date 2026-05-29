@@ -95,7 +95,7 @@ Tugas-Besar-PD/
 
 ### 1. Clone Repository
 ```bash
-git clone <link-repository-anda>
+git clone https://github.com/rdtngh/Tugas-Besar-PD.git
 cd Tugas-Besar-PD
 ```
 
